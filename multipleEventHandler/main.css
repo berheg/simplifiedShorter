@@ -1,0 +1,38 @@
+#eventHandlerDiv{
+    padding: 50px;
+    background-color: green;
+    font-family: sans-serif;
+    align-content: center ;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+}
+button{
+    padding: 15px;
+    font-size: 24px;
+    margin: 15px;
+    border: 5px solid #333333;
+}
+#btn1{
+    background-color: bisque;
+}
+#btn2{
+    background-color:blueviolet;
+}
+#btn3{
+    background-color: violet;
+}
+#btn4{
+    background-color: gold;
+}
+#btn5{
+    background-color: olive;
+}
+#btn6{
+    background-color: grey;
+}
